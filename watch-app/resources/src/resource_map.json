@@ -1,0 +1,11 @@
+{
+    "friendlyVersion": "1.0", 
+    "media": [
+        {
+            "defName": "IMAGE_SOFA", 
+            "file": "img/sofa.png", 
+            "type": "png"
+        }
+    ], 
+    "versionDefName": "WATCHNOW_APP_RESOURCES"
+}
